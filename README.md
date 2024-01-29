@@ -77,12 +77,3 @@ Follow these steps to contribute:
 This project is licensed under the [MIT License](LICENSE).
 
 
-
-
-
-
-
-For any questions or inquiries, please contact me at your-email@example.com.
-```
-
-Make sure to replace `your-username`, `your-email@example.com`, adjust the file paths and other details to match your actual project structure.
